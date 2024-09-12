@@ -1,0 +1,3 @@
+[submodule "Plugins/DualWorlds"]
+	path = Plugins/DualWorlds
+	url = git@github.com:Cynic1254/DualWorlds.git
